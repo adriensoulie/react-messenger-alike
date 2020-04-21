@@ -17,11 +17,11 @@ This project is connected to Realtime database of Firebase.
 
 
 ## How to download and run ? 
-1- Download the .zip file
-2- Unzip in the folder you like 
-3- Start terminal and go into your folder
-3- run npm i 
-4- npm start react
+* Download the .zip file
+* Unzip in the folder you like 
+* Start terminal and go into your folder
+* run npm i 
+* npm start react
 
 
 
