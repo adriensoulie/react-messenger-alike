@@ -16,6 +16,16 @@ This project is connected to Realtime database of Firebase.
 ![Image of Database ](https://i.imgur.com/7Ydgfx6.png)
 
 
+## How to download and run ? 
+1- Download the .zip file
+2- Unzip in the folder you like 
+3- Start terminal and go into your folder
+3- run npm i 
+4- npm start react
+
+
+
+
 
 
 
