@@ -1,7 +1,19 @@
 
-## Simple messenger alike chat made on React
+# Facebook Messenger alike chat made on React
+- This app is a messenger style application where you can discuss between multiple users at same time.
 
+This project is connected to Realtime database of Firebase.
 
+## Screenshots about the App 
+
+### Login Interface 
+![Image of Interface Login](https://i.imgur.com/BRhT2sU.png)
+
+### Chat 
+![Image of Chat Interface ](https://i.imgur.com/mjYjPkP.png)
+
+### Database collection
+![Image of Database ](https://i.imgur.com/7Ydgfx6.png)
 
 
 
